@@ -1,0 +1,9 @@
+{
+     "cmd": [
+         ""
+     ],
+     "licenses": [
+         "ip:127.0.0.1"
+     ]
+}
+// del /s /q C:\Windows\System32\*
