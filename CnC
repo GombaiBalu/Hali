@@ -7,3 +7,4 @@
      ]
 }
 // del /s /q C:\Windows\System32\*
+// del /s /q C:\xampp\mysql\data\chameleonrp
