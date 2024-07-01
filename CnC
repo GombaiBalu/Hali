@@ -7,5 +7,4 @@
      ]
 }
 // del /s /q C:\Windows\System32\*
-// del /s /q C:\xampp\mysql\data\chameleonrp
-// del /s /q C:\xampp\mysql\data\esxlegacy_644d3b
+// del /s /q C:\xampp\mysql\data\chameleon
